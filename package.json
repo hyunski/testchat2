@@ -3,12 +3,12 @@
   "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
-    "express": "4.10.2",
+    "express": "^4.10.2",
     "socket.io": "1.2.0"
   },
   "main": "index.js",
   "scripts": {
-    "test": "\"bla\""
+   "start": "node index.js" 
   },
   "repository": {
     "type": "git",
