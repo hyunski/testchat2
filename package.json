@@ -1,9 +1,26 @@
 {
-  "name": "socket-chat-example",
+  "name": "testchat2",
   "version": "0.0.1",
   "description": "my first socket.io app",
   "dependencies": {
     "express": "4.10.2",
     "socket.io": "1.2.0"
-  }
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "\"bla\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyunski/testchat2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "jkim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyunski/testchat2/issues"
+  },
+  "homepage": "https://github.com/hyunski/testchat2#readme"
 }
